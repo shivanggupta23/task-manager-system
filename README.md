@@ -5,7 +5,7 @@
 ### Full Stack Task Management Application with JWT Authentication & Role-Based Access Control
 
 <p align="center">
-  <img src="./screenshots/banner.png" alt="Task Manager Banner" width="100%">
+  <img src="./download/banner.png" alt="Task Manager Banner" width="100%">
 </p>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
@@ -262,25 +262,30 @@ http://localhost:3000
 
 ## Login Page
 
-![Login](./screenshots/login.png)
+![Login](<img width="1897" height="626" alt="image" src="https://github.com/user-attachments/assets/e98ceead-4f5e-4f53-9b42-e2ad7fdf7a41" />
+
+)
 
 ---
 
 ## Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](<img width="1907" height="595" alt="image" src="https://github.com/user-attachments/assets/3aa3aec6-381e-4ad5-b65e-bf33aa136707" />
+)
 
 ---
 
 ## Task Management
 
-![Tasks](./screenshots/tasks.png)
+![Tasks](<img width="1905" height="542" alt="image" src="https://github.com/user-attachments/assets/3bb4bba5-d16b-4008-a35d-abd3a4225caa" />
+)
 
 ---
 
 ## Swagger Documentation
 
-![Swagger](./screenshots/swagger.png)
+![Swagger](<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/44949f6a-9b70-45a2-810d-0549be42f357" />
+)
 
 ---
 
