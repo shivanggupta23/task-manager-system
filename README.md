@@ -373,11 +373,9 @@ Use Swagger UI or Postman Collection to test all endpoints.
 
 ### Shivang Gupta
 
-Backend Developer Internship Assignment
+LinkedIn: www.linkedin.com/in/shivang-gupta-0b1880201
 
-LinkedIn: Add Your LinkedIn URL
-
-GitHub: Add Your GitHub URL
+GitHub: https://github.com/shivanggupta23
 
 ---
 
