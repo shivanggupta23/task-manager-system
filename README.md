@@ -369,14 +369,14 @@ Use Swagger UI or Postman Collection to test all endpoints.
 
 ## 🌐 Live Demo
 
-Frontend:
+**Frontend:**
 https://task-manager-system-steel.vercel.app
 
 Backend API:
 [https://your-render-app.onrender.com](https://task-manager-system-l81k.onrender.com)
 
 Swagger:
-https://your-render-app.onrender.com/api-docs
+[https://your-render-app.onrender.com/api-docs](https://task-manager-system-l81k.onrender.com/api-docs)
 ---
 
 # 👨‍💻 Author
