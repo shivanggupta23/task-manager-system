@@ -5,7 +5,7 @@
 ### Full Stack Task Management Application with JWT Authentication & Role-Based Access Control
 
 <p align="center">
-  <img src="./downloads/banner.png" alt="Task Manager Banner" width="100%">
+  <img src="./banner.png" alt="Task Manager Banner" width="100%">
 </p>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
