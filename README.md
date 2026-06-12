@@ -367,6 +367,16 @@ Use Swagger UI or Postman Collection to test all endpoints.
 
 ✅ CRUD Operations
 
+## 🌐 Live Demo
+
+Frontend:
+https://task-manager-system-steel.vercel.app
+
+Backend API:
+[https://your-render-app.onrender.com](https://task-manager-system-l81k.onrender.com)
+
+Swagger:
+https://your-render-app.onrender.com/api-docs
 ---
 
 # 👨‍💻 Author
